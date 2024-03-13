@@ -1,6 +1,6 @@
 # Welcome to Trinity Bank App Repository
 ## Overview
-Welcome to the repository for Trinity Bnak APP, a Spring Boot banking app with Srping Security and tools like JWT, OAuth, OpenID. Used keycloak for openID authentication and Authorization. This project leverages the power of Spring Boot and spring security to provide a robust and scalable solution for secure banking domain web application. Also integrated with Angular for fornt-end.
+Welcome to the repository for Trinity Bank App, a Spring Boot banking app with Srping Security and tools like JWT, OAuth, OpenID. Used keycloak for openID authentication and Authorization. This project leverages the power of Spring Boot and spring security to provide a robust and scalable solution for secure banking domain web application. Also integrated with Angular for fornt-end.
 
 ## Features
 - Csrf security
